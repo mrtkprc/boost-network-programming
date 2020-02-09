@@ -1,2 +1,6 @@
-# boost-network-programming
-Network Programming with Boost.Asio.
+# Booost.Asio C++ Network Programming Cookbook Notes
+
+##Some Notes:
+
+``TCP doesn't support multicast messaging.``
+``Endpoint = IP Address + Port Number``
